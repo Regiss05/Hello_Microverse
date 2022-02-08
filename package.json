@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/Regiss05/Hello_Microverse#readme",
   "dependencies": {
+    "lighthouse": "^9.3.1",
     "linters": "^0.0.5"
   },
   "devDependencies": {
-    "hint": "^6.1.9"
+    "hint": "^6.1.9",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
   }
 }
