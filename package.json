@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Regiss05/Hello_Microverse#readme",
   "dependencies": {
+    "lighthouse": "^9.3.1",
     "linters": "^0.0.5"
   },
   "devDependencies": {
